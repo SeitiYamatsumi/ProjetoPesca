@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.epicgames.ProjetoPesca.OBBDownloaderService;
-import com.epicgames.ProjetoPesca.DownloaderActivity;
+import com.epicgames.projetopesca.OBBDownloaderService;
+import com.epicgames.projetopesca.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.epicgames.ProjetoPesca.OBBData;
+import com.epicgames.projetopesca.OBBData;
 
 
 public class DownloadShim

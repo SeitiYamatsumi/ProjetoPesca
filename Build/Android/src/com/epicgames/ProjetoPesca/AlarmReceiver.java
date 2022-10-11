@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.epicgames.ProjetoPesca;
+package com.epicgames.projetopesca;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

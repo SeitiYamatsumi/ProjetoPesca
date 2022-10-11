@@ -1,4 +1,4 @@
-package com.epicgames.ProjetoPesca;
+package com.epicgames.projetopesca;
 
 public class OBBData
 {
@@ -19,7 +19,7 @@ public static final XAPKFile[] xAPKS = {
 new XAPKFile(
 true, // true signifies a main file
 "1", // the version of the APK that the file was uploaded against
-731593621L // the length of the file in bytes
+703677462L // the length of the file in bytes
 )
 };
 };

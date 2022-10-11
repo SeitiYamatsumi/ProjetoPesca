@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.epicgames.ProjetoPesca;
+package com.epicgames.projetopesca;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.epicgames.ProjetoPesca.AlarmReceiver.class.getName();
+        return com.epicgames.projetopesca.AlarmReceiver.class.getName();
     }
 }
